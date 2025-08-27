@@ -4,3 +4,5 @@ github.com/ricejson/rice-rpc-easy v0.0.0-20250826160339-d941a2f3dbad h1:mYVCjlei
 github.com/ricejson/rice-rpc-easy v0.0.0-20250826160339-d941a2f3dbad/go.mod h1:znycEAFPkMZ5+ETIIaILFE6vUHpD/iRReJb8zPVOsqk=
 github.com/ricejson/rice-rpc-easy v0.0.0-20250826160635-ecd6c149fa24 h1:druaPflUnqSWnqQLSp5FJfp2hMAYB8JfsNMijTqsWVA=
 github.com/ricejson/rice-rpc-easy v0.0.0-20250826160635-ecd6c149fa24/go.mod h1:znycEAFPkMZ5+ETIIaILFE6vUHpD/iRReJb8zPVOsqk=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250827154509-f74a0224fe2d h1:U2MHPoltoKOi1ShTlnwh7WP9FRJGKovRRrKPfyRpBMI=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250827154509-f74a0224fe2d/go.mod h1:znycEAFPkMZ5+ETIIaILFE6vUHpD/iRReJb8zPVOsqk=
